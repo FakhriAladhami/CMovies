@@ -1,0 +1,105 @@
+@font-face {
+    font-family: "Edwardian Script";
+    src: url(path/to/the/font);
+}
+body{
+    background-image: url(http://www.pixelstalk.net/wp-content/uploads/2016/04/Dark-grey-texture-abstract-hd-wallpaper.jpg);
+  }
+.navbar{
+    padding: 20px;
+    background-color: black !important;
+   
+  }
+
+  .navbar-brand{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 45px;
+    font-family:'Edwardian Script';
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    color:white !important;
+   
+
+    
+  }
+  .buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color: white;
+    
+}
+button{
+ 
+  padding: 1em 2em;
+  color:rgb(250, 248, 249);
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+  border-radius: 30px 30px 30px 30px;
+  box-shadow: 0 5px 8px 0 rgb(241, 49, 1), 0 7px 20px 0 rgb(148, 181, 252);
+  
+  
+}
+  .navbar-nav{
+    padding-left: 500px ;
+
+  }
+  .nav-link{
+    font-weight: bold;
+    color: white !important;
+    margin-left: 5px;
+    transition: o.6ms;
+    border-radius: 20px;
+    text-transform: capitalize;
+  }
+  .nav-link:hover{
+    transform: translateY(-20px);
+    background: orangered;
+  }
+  /*cards*/
+  /*Event Star*/
+  
+  .container-event{
+    margin:200px auto;
+  }
+   
+   /* cards */
+   
+   .card {
+    
+    width: 20%;
+    height: 320px;
+    border-radius: 15px;
+    text-align: center;
+    margin: 20px;
+  }
+  
+  
+ 
+  
+  .container{
+    width: 100%;
+    height: auto;
+    display:flex
+  
+    
+  
+  }
+  
+  
+  .imgsize{
+    border-top-left-radius: 15px ;
+    border-top-right-radius: 15px ;
+    background-size: cover;
+    
+  
+  }
+  .colordate{
+  color:red;
+  }
+  .btn{
+    width: 100%;
+    border-radius: 15px !important;
+    
+  }
+  

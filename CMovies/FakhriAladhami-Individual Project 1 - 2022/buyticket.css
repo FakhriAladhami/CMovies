@@ -1,0 +1,96 @@
+
+
+.container-event{
+    margin: 200px;
+}
+.title{
+    margin-left: 100px;
+    color: darkorange;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.bill{
+    margin-left: 100px;
+    color: darkorange;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.middle{
+    
+    margin-left: 450px;
+    
+}
+#phone {
+    margin-left: 48px;
+    border-radius: 3px;
+    
+}
+#first_name {
+    margin-left: 81px;
+    border-radius: 3px;
+}
+#last_name{
+    margin-left: 81px; 
+    border-radius: 3px;
+}
+#address{
+    margin-left: 53px; 
+    border-radius: 3px;
+
+}
+#city{
+    margin-left: 127px; 
+    border-radius: 3px;
+
+}
+.st{
+    margin-left: 112px; 
+    border-radius: 3px;
+}
+#code{
+    margin-left: 88px; 
+    border-radius: 3px;
+
+}
+#credit{
+    margin-left: 70px; 
+    border-radius: 3px;
+
+}
+#cardname{
+    margin-left: 20px; 
+    border-radius: 3px;
+
+}
+#cardcode{
+    margin-left: 50px; 
+    border-radius: 3px;
+
+}
+#cvv{
+    margin-left: 115px; 
+    border-radius: 3px;
+}
+
+#yes{
+    margin-left: 60px;
+}
+#tnumber{
+    margin-left: 30px; 
+}
+#m{
+    margin-left: 36px; 
+}
+#ttype{
+    margin-left: 65px; 
+}
+#message{
+    margin-left: 145px;   
+}
+
+.f{
+    background-color: orange;
+    margin-left: 150px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
